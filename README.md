@@ -24,3 +24,13 @@ description: >-
 9. **This game would not be possible without the technology provided by Solana Blink. LFG!!!**
 
 <figure><img src="assets/image.png" alt="" width="375"><figcaption><p>Post your miner link in your tweets to start mining</p></figcaption></figure>
+
+# Table of contents
+
+* [🎮 How to play](README.md)
+  * [🛠️ Set up](how-to-play/set-up.md)
+  * [🌟 Starlicon](how-to-play/starlicon.md)
+  * [💪 Upgrade](how-to-play/upgrade.md)
+  * [💰 Collect](how-to-play/collect.md)
+  * [🪐 Decentralized Game](how-to-play/decentralized-game.md)
+  * [💲 Tokenomics](how-to-play/tokenomics.md)
