@@ -9,6 +9,16 @@ description: >-
 
 <figure><img src="assets/banner (1).jpg" alt=""><figcaption></figcaption></figure>
 
+# Table of contents
+
+* [🎮 How to play](README.md)
+  * [🛠️ Set up](how-to-play/set-up.md)
+  * [🌟 Starlicon](how-to-play/starlicon.md)
+  * [💪 Upgrade](how-to-play/upgrade.md)
+  * [💰 Collect](how-to-play/collect.md)
+  * [🪐 Decentralized Game](how-to-play/decentralized-game.md)
+  * [💲 Tokenomics](how-to-play/tokenomics.md)
+
 ## Quick Start
 
 ⚠️ You need to enable **Solana Actions/Blinks** first to play the game. Don't know how to set up?  [Check here](how-to-play/set-up.md). If you want to learn more about Solana Actions/Blinks, [Check here](https://docs.dialect.to/documentation).
@@ -24,13 +34,3 @@ description: >-
 9. **This game would not be possible without the technology provided by Solana Blink. LFG!!!**
 
 <figure><img src="assets/image.png" alt="" width="375"><figcaption><p>Post your miner link in your tweets to start mining</p></figcaption></figure>
-
-# Table of contents
-
-* [🎮 How to play](README.md)
-  * [🛠️ Set up](how-to-play/set-up.md)
-  * [🌟 Starlicon](how-to-play/starlicon.md)
-  * [💪 Upgrade](how-to-play/upgrade.md)
-  * [💰 Collect](how-to-play/collect.md)
-  * [🪐 Decentralized Game](how-to-play/decentralized-game.md)
-  * [💲 Tokenomics](how-to-play/tokenomics.md)
